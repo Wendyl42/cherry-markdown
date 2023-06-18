@@ -49,6 +49,7 @@ import Suggester from './hooks/Suggester';
 import Ruby from './hooks/Ruby';
 import Panel from './hooks/Panel';
 import Detail from './hooks/Detail';
+import AntiSpoiler from './hooks/AntiSpoiler';
 /**
  * 引擎各语法的配置
  * 主要决定支持哪些语法，以及各语法的执行顺序
@@ -93,6 +94,7 @@ const hooksConfig = [
   Underline,
   HighLight,
   Suggester,
+  AntiSpoiler,
 ];
 
 export default hooksConfig;

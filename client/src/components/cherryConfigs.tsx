@@ -370,6 +370,8 @@ export const defaultConfig = {
     { className: 'light', label: '明亮' },
     { className: 'green', label: '清新' },
     { className: 'red', label: '热情' },
+    { className: 'blue', label: '淡雅' },
+    { className: 'darkblue', label: '深邃' },
   ],
   // 预览页面不需要绑定事件
   isPreviewOnly: false,

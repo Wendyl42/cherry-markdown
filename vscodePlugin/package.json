@@ -54,7 +54,9 @@
             "dark",
             "light",
             "green",
-            "red"
+            "red",
+            "blue",
+            "darkblue"
           ],
           "description": "cherry-markdown's theme, available values: [ default | dark | light | green | red ]"
         },
